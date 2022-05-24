@@ -4,7 +4,7 @@
   "description": "Frontend learning application.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/titlethanason/frontend-app-learning.git#learnai"
+    "url": "git+https://github.com/titlethanason/frontend-app-learning.git"
   },
   "browserslist": [
     "last 2 versions",
@@ -34,7 +34,7 @@
     "@edx/brand": "npm:@edx/brand-openedx@1.1.0",
     "@edx/frontend-component-footer": "10.1.6",
     "@edx/frontend-enterprise-utils": "1.1.1",
-    "@edx/frontend-lib-special-exams": "titlethanason/frontend-lib-special-exams#learnai",
+    "@edx/frontend-lib-special-exams": "npm:frontend-lib-special-exams-th@1.14.0",
     "@edx/frontend-platform": "1.14.3",
     "@edx/paragon": "16.19.0",
     "@edx/frontend-component-header": "^2.4.3",
